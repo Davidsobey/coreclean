@@ -42,6 +42,8 @@ $(function() {
 
             navbar.addClass("nav-scroll");
             logo.attr('src', 'img/logo-dark.png');
+            logo.attr('style', 'width: 150px');
+
 
         }else{
 
